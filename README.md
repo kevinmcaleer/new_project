@@ -22,3 +22,12 @@ def print("hello world")
 # heading 1
 ## Heading 2
 ### Heading 3
+
+---
+
+Table 1
+
+| col1      | col2       | col3       |
+|-----------|------------|------------|
+| some text | col 2 text | col 3 text |
+|           |            |            |
